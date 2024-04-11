@@ -1,0 +1,45 @@
+_repo: American-short-stories-b-Selected-and-edited-with-an-introductory-essay-on-the-short-story-by__73141
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Baldwin, Charles Sears
+    birthdate: 1867
+    deathdate: 1935
+    gutenberg_agent_id: '56767'
+    url: http://www.gutenberg.org/2009/agents/56767
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Sears_Baldwin
+description: ''
+gutenberg_issued: '2024-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73141'
+language: en
+pgterms:marc904: https://archive.org/details/americanshortsto00baldrich/page/n5/mode/2up
+pgterms:marc905: 20230803033935various
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bLongmans, Green & Co., $c1904, reprint 1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'Introduction -- Pt. 1. The tentative period: Rip Van Winkle, by
+  Washington Irving. Peter Rugg, the missing man, by William Austin. The French village,
+  by James Hall. The inroad of the Nabajo, by Albert Pike -- Pt. 2. The period of
+  the new form: The white old maid, by Nathaniel Hawthorne. The notary of Périgueux,
+  by Henry Wadsworth Longfellow. The fall of the House of Usher, by Edgar Allan Poe.
+  The inlet of peach blossoms, by Nathaniel Parker Willis. The bee-tree, by Caroline
+  Matilda Stansbury Kirkland. What was it? A mystery, by Fitz-James O''Brien. The
+  outcasts of Poker Flat, by Francis Bret Harte. Miss Eunice''s glove, by Albert Falvey
+  Webster. Who was she? by Bayard Taylor. The love-letters of Smith, by Henry Cuyler
+  Bunner. The eve of the Fourth, by Harold Frederic.'
+title: 'American short stories : $b Selected and edited with an introductory essay
+  on the short story by Charles Sears Baldwin'
+url: http://www.gutenberg.org/ebooks/73141
